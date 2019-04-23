@@ -6,7 +6,7 @@ if ($userDetails->conta) {
     exit();
 }
 
-$facebook_url = "https://www.facebook.com/dialog/oauth?client_id=296635354108298&redirect_uri=https://sugoigame.com.br/Scripts/Geral/login_facebook.php&scope=email";
+$facebook_url = "https://www.facebook.com/dialog/oauth?client_id=296635354108298&redirect_uri=https://mugiwaragame.com.br/Scripts/Geral/login_facebook.php&scope=email";
 
 $banners = array(
     "1" => array(
